@@ -2,7 +2,7 @@
 The Association between Travel Demand of Docked Bike sharing and the Built Environment: Evidence from Seven US Cities
 
 ## Hightlights 
-• The study compares travel demand of docked shared-bikes with the urban environment.
+• The study compares travel demand of docked shared-bikes with the urban environment. //
 • Geographically weighted regression is employed to examine the spatially varying relationships.
 • Healthcare, financial, government, and transportation POIs exhibit spatial heterogeneity.
 • Commercial POIs consistently show positive associations with DBS ridership in Los Angeles.
