@@ -1,6 +1,8 @@
 # The association between travel demand of docked bike-sharing and the built environment: Evidence from seven US cities
 The Association between Travel Demand of Docked Bike sharing and the Built Environment: Evidence from Seven US Cities
 
+This is the Python code for the journal paper named "**_The Association between Travel Demand of Docked Bike sharing and the Built Environment: Evidence from Seven US Cities_**", which has been accepted and published in **_[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)_**, Elsevier, in March 2024.
+
 ## Hightlights 
 • The study compares travel demand of docked shared-bikes with the urban environment. <br /> 
 • Geographically weighted regression is employed to examine the spatially varying relationships. <br /> 
